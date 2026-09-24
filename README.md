@@ -1,134 +1,58 @@
 <div align="center">
 
-<img src="assets/matrix-header.svg" alt="GUSTAVO SALIM - Cientista de Dados e Desenvolvedor Python" width="100%"/>
+<img src="assets/br-header.svg" alt="GUSTAVO SALIM - Cientista de Dados e Desenvolvedor Python" width="100%"/>
 
-<a href="https://github.com/GS4L1M">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=3500&pause=900&color=00FF41&center=true&vCenter=true&width=620&height=50&lines=Acorde%2C+Neo...;A+Matrix+te+pegou...;Siga+o+coelho+branco.;Toc%2C+toc%2C+Neo." alt="Acorde, Neo... A Matrix te pegou... Siga o coelho branco. Toc, toc, Neo."/>
-</a>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=3200&pause=1100&color=FF2A6D&center=true&vCenter=true&width=700&height=46&lines=Mais+humano+que+humano.;Eu+vi+coisas+que+voc%C3%AAs+n%C3%A3o+acreditariam...;...tabelas+com+40%25+de+valores+nulos.;Transformando+dados+em+respostas." alt="Mais humano que humano. Eu vi coisas que vocês não acreditariam... tabelas com 40% de valores nulos. Transformando dados em respostas."/>
 
-</div>
+<img src="assets/br-id.svg" alt="Registro de identificação: Gustavo Salim, Cientista de Dados e Desenvolvedor Python. Missão atual: Machine Learning com Scikit-Learn, Keras e TensorFlow." width="100%"/>
 
----
+<img src="assets/br-sec-skills.svg" alt="Módulos" width="100%"/>
+<img src="assets/br-skills.svg" alt="Habilidades: Python, Pandas, NumPy, Scikit-Learn, Matplotlib, Streamlit, Jupyter, Power BI, SQL, HTML5, CSS, JavaScript, Git, GitHub, VS Code. Aprendendo: TensorFlow, Keras e Redes Neurais." width="100%"/>
 
-### `> whoami`
+<img src="assets/br-sec-projects.svg" alt="Arquivos de caso" width="100%"/>
 
-```diff
-+ nome ............ Gustavo Salim
-+ funcao .......... Cientista de Dados & Desenvolvedor Python
-+ foco_atual ...... Machine Learning com Scikit-Learn, Keras & TensorFlow
-+ lendo_agora ..... "Mãos à Obra: Aprendizado de Máquina" — Aurélien Géron
-+ gosto_de ........ transformar dados públicos (DATASUS, ANP, OCDE) em respostas
-+ contato ......... gustavosalim10@gmail.com
-- colher .......... não existe 🥄
-```
-
-Eu enxergo o mundo em linhas e colunas. Tabelas grandes e bagunçadas viram análises, dashboards e modelos que respondem perguntas de verdade, como *"como estão as internações por saúde mental no Brasil?"* ou *"quanto o combustível custa no meu bairro?"*.
-
----
-
-### `> ls ./habilidades`
-
-<div align="center">
-
-**Dados & Machine Learning**
-
-<img src="https://img.shields.io/badge/Python-0D0208?style=for-the-badge&logo=python&logoColor=00FF41" alt="Python"/>
-<img src="https://img.shields.io/badge/Pandas-0D0208?style=for-the-badge&logo=pandas&logoColor=00FF41" alt="Pandas"/>
-<img src="https://img.shields.io/badge/NumPy-0D0208?style=for-the-badge&logo=numpy&logoColor=00FF41" alt="NumPy"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-0D0208?style=for-the-badge&logo=scikitlearn&logoColor=00FF41" alt="Scikit-Learn"/>
-<img src="https://img.shields.io/badge/Matplotlib-0D0208?style=for-the-badge" alt="Matplotlib"/>
-<img src="https://img.shields.io/badge/Streamlit-0D0208?style=for-the-badge&logo=streamlit&logoColor=00FF41" alt="Streamlit"/>
-<img src="https://img.shields.io/badge/Jupyter-0D0208?style=for-the-badge&logo=jupyter&logoColor=00FF41" alt="Jupyter"/>
-
-**BI & Banco de Dados**
-
-<img src="https://img.shields.io/badge/Power_BI-0D0208?style=for-the-badge" alt="Power BI"/>
-<img src="https://img.shields.io/badge/SQL-0D0208?style=for-the-badge" alt="SQL"/>
-
-**Web**
-
-<img src="https://img.shields.io/badge/HTML5-0D0208?style=for-the-badge&logo=html5&logoColor=00FF41" alt="HTML5"/>
-<img src="https://img.shields.io/badge/CSS-0D0208?style=for-the-badge&logo=css&logoColor=00FF41" alt="CSS"/>
-<img src="https://img.shields.io/badge/JavaScript-0D0208?style=for-the-badge&logo=javascript&logoColor=00FF41" alt="JavaScript"/>
-
-**Ferramentas**
-
-<img src="https://img.shields.io/badge/Git-0D0208?style=for-the-badge&logo=git&logoColor=00FF41" alt="Git"/>
-<img src="https://img.shields.io/badge/GitHub-0D0208?style=for-the-badge&logo=github&logoColor=00FF41" alt="GitHub"/>
-
-**Carregando...** `[██████░░░░] 60%`
-
-<img src="https://img.shields.io/badge/TensorFlow-0D0208?style=for-the-badge&logo=tensorflow&logoColor=00FF41" alt="TensorFlow"/>
-<img src="https://img.shields.io/badge/Keras-0D0208?style=for-the-badge&logo=keras&logoColor=00FF41" alt="Keras"/>
+<a href="https://github.com/GS4L1M/Sa-de-Mental"><img src="assets/br-proj-1.svg" alt="Saúde Mental: análise de dados do DATASUS sobre internações por saúde mental e suicídios" width="32%"/></a>
+<a href="https://github.com/GS4L1M/AnaliseANP"><img src="assets/br-proj-2.svg" alt="Análise ANP: dashboard dos preços de combustíveis" width="32%"/></a>
+<a href="https://github.com/GS4L1M/maos-a-obra-ml"><img src="assets/br-proj-3.svg" alt="Mãos à Obra ML: estudos do livro de Machine Learning do Aurélien Géron" width="32%"/></a>
 
 </div>
-
----
-
-### `> ls ./projetos --destaque`
-
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h4>🧠 <a href="https://github.com/GS4L1M/Sa-de-Mental">Saúde Mental</a></h4>
-      <p>Extração e análise de dados públicos do <b>DATASUS</b> (SIH e SIM) sobre internações por saúde mental e suicídios no Brasil e em Minas Gerais, de 2024 a 2025, com painel em Streamlit.</p>
-      <img src="https://img.shields.io/badge/Python-0D0208?style=flat-square&logo=python&logoColor=00FF41" alt="Python"/>
-      <img src="https://img.shields.io/badge/Pandas-0D0208?style=flat-square&logo=pandas&logoColor=00FF41" alt="Pandas"/>
-      <img src="https://img.shields.io/badge/Streamlit-0D0208?style=flat-square&logo=streamlit&logoColor=00FF41" alt="Streamlit"/>
-    </td>
-    <td width="33%" valign="top">
-      <h4>⛽ <a href="https://github.com/GS4L1M/AnaliseANP">Análise ANP</a></h4>
-      <p>Dashboard com os preços de combustíveis da <b>ANP</b>: gasolina, diesel e etanol por estado, município, bairro e bandeira do posto.</p>
-      <img src="https://img.shields.io/badge/Python-0D0208?style=flat-square&logo=python&logoColor=00FF41" alt="Python"/>
-      <img src="https://img.shields.io/badge/Pandas-0D0208?style=flat-square&logo=pandas&logoColor=00FF41" alt="Pandas"/>
-      <img src="https://img.shields.io/badge/Streamlit-0D0208?style=flat-square&logo=streamlit&logoColor=00FF41" alt="Streamlit"/>
-    </td>
-    <td width="33%" valign="top">
-      <h4>🐇 <a href="https://github.com/GS4L1M/maos-a-obra-ml">Mãos à Obra ML</a></h4>
-      <p>Meus estudos do livro de Machine Learning do <b>Aurélien Géron</b>: os notebooks reescritos em Python, organizados em módulos e comentados em português.</p>
-      <img src="https://img.shields.io/badge/Python-0D0208?style=flat-square&logo=python&logoColor=00FF41" alt="Python"/>
-      <img src="https://img.shields.io/badge/Scikit--Learn-0D0208?style=flat-square&logo=scikitlearn&logoColor=00FF41" alt="Scikit-Learn"/>
-      <img src="https://img.shields.io/badge/Matplotlib-0D0208?style=flat-square" alt="Matplotlib"/>
-    </td>
-  </tr>
-</table>
 
 <details>
-<summary><b>💊 Pílula vermelha ou pílula azul?</b></summary>
+<summary><b>🔴 Fazer o teste Voight-Kampff</b></summary>
 <br>
 
-> *"Você toma a pílula azul, a história acaba, e você acorda na sua cama acreditando no que quiser. Você toma a pílula vermelha, fica no País das Maravilhas, e eu te mostro até onde vai a toca do coelho."*
-> — Morpheus
+> *"Reação à pergunta: tempo de resposta, dilatação da pupila, rubor involuntário..."*
 
-🔵 **Azul:** feche esta página e siga a vida.
+**Pergunta 1.** Você recebe um dataset com 40% de valores nulos. Você:
+- 🅰 apaga as linhas e segue a vida
+- 🅱 investiga **por que** os dados estão faltando
 
-🔴 **Vermelha:** [entre nos meus repositórios](https://github.com/GS4L1M?tab=repositories) e descubra até onde os dados vão.
+**Pergunta 2.** O modelo acertou 99% no treino e 60% no teste. Você:
+- 🅰 comemora os 99%
+- 🅱 desconfia de overfitting e volta para os dados
+
+**Pergunta 3.** Alguém pede "só um gráfico rapidinho". Você:
+- 🅰 faz um gráfico de pizza com 14 fatias
+- 🅱 pergunta qual decisão esse gráfico vai ajudar a tomar
+
+```diff
++ Respostas B detectadas. Empatia com os dados: confirmada.
++ Resultado: humano. Provavelmente.
+```
 
 </details>
 
----
-
-### `> cat ./atividade.log`
-
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=GS4L1M&locale=pt_BR&background=0D0208&border=00FF41&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakNum=00FF41&sideNums=00FF41&currStreakLabel=00FF41&sideLabels=008F11&dates=008F11" alt="Sequência de contribuições do GS4L1M" width="600"/>
+<img src="assets/br-sec-activity.svg" alt="Registro de atividade" width="100%"/>
 
-</div>
+<img src="https://streak-stats.demolab.com/?user=GS4L1M&locale=pt_BR&background=07030D&border=FF2A6D&stroke=05D9E8&ring=FF2A6D&fire=FF8C1A&currStreakNum=D1F7FF&sideNums=05D9E8&currStreakLabel=FF2A6D&sideLabels=7C6A99&dates=7C6A99" alt="Sequência de contribuições do GS4L1M" width="70%"/>
 
----
+<img src="assets/br-sec-contact.svg" alt="Canal de contato" width="100%"/>
 
-### `> ping gustavo`
+<a href="mailto:gustavosalim10@gmail.com"><img src="https://img.shields.io/badge/gustavosalim10@gmail.com-07030D?style=for-the-badge&logo=gmail&logoColor=FF2A6D" alt="E-mail: gustavosalim10@gmail.com"/></a>
+<a href="https://github.com/GS4L1M?tab=repositories"><img src="https://img.shields.io/badge/Repositórios-07030D?style=for-the-badge&logo=github&logoColor=05D9E8" alt="Repositórios no GitHub"/></a>
 
-<div align="center">
-
-<a href="mailto:gustavosalim10@gmail.com"><img src="https://img.shields.io/badge/gustavosalim10@gmail.com-0D0208?style=for-the-badge&logo=gmail&logoColor=00FF41" alt="E-mail"/></a>
-<a href="https://github.com/GS4L1M"><img src="https://img.shields.io/badge/GS4L1M-0D0208?style=for-the-badge&logo=github&logoColor=00FF41" alt="GitHub"/></a>
-
-<br><br>
-
-<img src="assets/matrix-divider.svg" alt="Chuva de código do Matrix" width="100%"/>
-
-<sub><i>"Eu só posso te mostrar a porta. Você é quem tem que atravessá-la."</i></sub>
+<img src="assets/br-footer.svg" alt="Todos esses momentos se perderão no tempo, como lágrimas na chuva. Roy Batty" width="100%"/>
 
 </div>
